@@ -1,1 +1,1 @@
-{"name":"nma","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_op_nma","ssh":"git@github.com:Digambaran/_op_nma.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
+{"name":"sdfsdf","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_op_sdfsdf","ssh":"git@github.com:Digambaran/_op_sdfsdf.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
